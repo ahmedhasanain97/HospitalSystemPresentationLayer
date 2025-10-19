@@ -1,0 +1,6 @@
+Dependency Inversion Principle: all high level modules should not depened on
+low level modules but the abstraction 
+الفرق 
+سنجلتون بنكريت اوبجكت مره واحد بس
+السكوبد بنكريت الاوبجكت كل ما نعمل ريكويست
+الترنسنت بنعمل اوبجكت كل ما نعمل ريكويست
